@@ -3,13 +3,13 @@ python script that runs in the background and plays a sound when the battery goe
 
 ## Use
 
-```console:
+```console
 pip install -r requirements.txt
 ```
 
 Execute the script
 
-```console:
+```console
 python3 app.py
 ```
 
